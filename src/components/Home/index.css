@@ -6,3 +6,9 @@
   padding: 25px;
   width: 100%;
 }
+
+@media (max-width: 767px) {
+  .home-container {
+    padding: 12px;
+  }
+}

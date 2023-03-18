@@ -1,7 +1,13 @@
 .blogList-ul-container {
-  padding: 0;
-  list-style-type: none;
-  width: 90%;
+  width: 93%;
+  align-self: flex-start;
+  padding-right: 18px;
+}
+
+@media {
+  .blogList-ul-container {
+    width: 98%;
+  }
 }
 
 .loader-css {
