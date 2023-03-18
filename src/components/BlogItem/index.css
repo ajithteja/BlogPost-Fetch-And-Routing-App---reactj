@@ -1,0 +1,55 @@
+.blogList-link-nav {
+  text-decoration: none;
+}
+
+.flex-li-container {
+  display: flex;
+  align-items: center;
+  margin: 18px;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #8e8e8e;
+  padding: 15px;
+  width: 100%;
+}
+
+.thumbnail-img {
+  height: 135px;
+  width: 230px;
+  margin-right: 12px;
+  border-radius: 3px;
+}
+
+.topic {
+  font-size: 12px;
+  font-family: 'roboto';
+  color: #8e8e8e;
+  font-weight: 500;
+}
+
+.title {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.profile-name-container {
+  display: flex;
+  align-items: center;
+}
+
+.profile {
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+  margin-right: 8px;
+}
+
+.author-name {
+  color: #8e8e8e;
+  font-family: 'roboto';
+  font-size: 13px;
+  font-weight: 400;
+}

@@ -1,0 +1,46 @@
+.blog-details-container {
+  width: 80%;
+}
+
+.loading-cls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 58px;
+}
+
+.blog-title {
+  text-align: center;
+  font-family: 'roboto';
+  font-size: 32px;
+}
+
+.blog-profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.blog-profile {
+  height: 28px;
+  width: 28px;
+  border-radius: 25px;
+  margin-right: 8px;
+}
+
+.author-blog {
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.thumbnail-blog-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.blog-content {
+  color: #2f4f4f;
+  font-family: 'roboto';
+  font-size: 16px;
+  font-weight: 400;
+}
